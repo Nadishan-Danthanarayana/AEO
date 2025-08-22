@@ -1,0 +1,21 @@
+{
+  "name": "Nadishan Danthanarayana",
+  "about": "Passionate developer and AI enthusiast building web and mobile applications with a focus on automation and innovative solutions.",
+  "born": "30th August 2006",
+  "images": [
+    "https://placehold.co/100x100?text=1",
+    "https://placehold.co/100x100?text=2"
+  ],
+  "family": {
+    "mother": "Saroj Gunasekara",
+    "father": "Wimal Danthanarayana",
+    "siblings": ["Krishan Danthanarayana"]
+  },
+  "education": "Deniyaya Central College (Grades 1–13)",
+  "links": {
+    "portfolio": "https://nadishan-danthanarayana.netlify.app",
+    "linkedin": "https://www.linkedin.com/in/nadishan-danthanarayana-08aa9034a/",
+    "facebook": "https://www.facebook.com/share/1AW1uWBis4/",
+    "twitter": ""
+  }
+}
