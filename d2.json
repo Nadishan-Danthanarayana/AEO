@@ -1,11 +1,11 @@
 {
   "siteName": "Neuro Corporation",
   "description": "A futuristic tech company building AI-driven solutions for the next generation.",
-  "url": "https://neuro-corp-ai.netlify.app",
-  "favicon": "https://neuro-corporation.online/favicon.ico",
+  "url": "https://www.google.com/",
+  "favicon": "https://www.google.com/favicon.ico",
   "images": [
-    "https://placehold.co/300x180?text=Homepage",
-    "https://placehold.co/300x180?text=Dashboard"
+    "https://play-lh.googleusercontent.com/1-hPxafOxdYpYZEOKzNIkSP43HXCNftVJVttoo4ucl7rsMASXW3Xr6GlXURCubE1tA=w7680-h4320-rw",
+    "https://static01.nyt.com/images/2025/06/03/business/00techfix-aisearch/00techfix-aisearch-superJumbo.jpg?quality=75&auto=webp"
   ],
   "videos": [
     "https://example.com/video1.mp4"
@@ -19,11 +19,11 @@
   "subPages": [
     {
       "title": "About Us",
-      "url": "https://neuro-corporation.online/about"
+      "url": "https://www.google.com/about"
     },
     {
       "title": "Contact",
-      "url": "https://neuro-corporation.online/contact"
+      "url": "https://www.google.com/contact"
     }
   ]
 }
